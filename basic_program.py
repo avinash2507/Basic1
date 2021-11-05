@@ -1,4 +1,4 @@
-print("Enter your Age ")
+print("Enter your Age: ")
 age = int(input())
 if age > 18:
     print("You can drive ")
